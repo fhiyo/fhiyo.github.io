@@ -108,13 +108,11 @@ sources: # bootcdn (default), unpkg
 ## => Comments
 ##############################
 comments:
-  provider: false # false (default), "disqus", "gitalk", "custom"
+  provider: disqus # false (default), "disqus", "gitalk", "custom"
 
   ## Disqus
   disqus:
     short_name: https-fhiyo-github-io
-    comment_count: true
-    developer_mode: true
 
   ## Gitalk
   # please refer to https://github.com/gitalk/gitalk for more info.
