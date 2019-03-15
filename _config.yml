@@ -112,7 +112,7 @@ comments:
 
   ## Disqus
   disqus:
-    short_name: https-fhiyo-github-io
+    shortname: fhiyo-github-io
 
   ## Gitalk
   # please refer to https://github.com/gitalk/gitalk for more info.
