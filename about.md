@@ -16,3 +16,6 @@ Python/Shell Script/Java/Haskell/C++
 - Speaker Deck: [https://speakerdeck.com/fhiyo](https://speakerdeck.com/fhiyo)
 - Qiita: [https://qiita.com/fhiyo](https://qiita.com/fhiyo)
 - 「ゼロから作るDeep Learning ❷ ―自然言語処理編」の査読
+
+
+ブログの書き方はその日の気分で敬体・常体を変えてます。
