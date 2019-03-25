@@ -1,7 +1,7 @@
 ---
 layout: article
 date: 2019-03-03 17:41
-title: "Newton method"
+title: "Newton Method"
 tags: [math]
 comments: true
 published: true
